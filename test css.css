@@ -1,0 +1,85 @@
+#header {
+    background: blue;
+    height: 100px;
+    width: 100%;
+
+}
+
+#giua1 {
+    background: aliceblue;
+    height: 300px;
+    width: 30%;
+    float: left;
+}
+
+#giua2 {
+    background: coral;
+    height: 300px;
+    width: 30%;
+    float: right;
+}
+
+#giua3 {
+    background: brown;
+    height: 300px;
+    width: 35%;
+    float: left;
+}
+
+#ketbai {
+    background: beige;
+    height: 100px;
+    width: 100%;
+    clear: both;
+}
+
+.menu {
+    float: right;
+    color: aquamarine;
+    margin-left: 15px;
+
+}
+
+.logo {
+    float: left;
+
+}
+
+.asasd {
+    float: right;
+    color: brown;
+
+}
+
+.asdawdwa {
+    float: right;
+    color: deeppink;
+}
+
+.sadawdawd {
+    float: right;
+    color: cornsilk;
+}
+
+..mid1 {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.item-giua1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: lightseagreen;
+    height: 50px;
+    width: 100%;
+    line-height: 50px;
+
+}
+.benphai{
+    float: right;
+
+}
+#giua3{
+    padding: 20px;
+    margin-left: 15px;
+}
