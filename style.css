@@ -1,0 +1,25 @@
+#header {
+    background: beige;
+    height: 100px;
+    width: 100%;
+}
+
+#main {
+    background: black;
+    height: 400px;
+    width: 70%;
+    float: left;
+}
+
+#slidebar {
+    background: aqua;
+    height: 400px;
+    width: 30%;
+    float: right;
+}
+#both{
+    background: blanchedalmond;
+    height: 400px;
+    width: 30%;
+    clear: both;
+}
