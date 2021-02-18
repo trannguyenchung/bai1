@@ -1,0 +1,88 @@
+.dau1 {
+    background: deeppink;
+    height: 100px;
+    width: 30%;
+    float: left;
+}
+
+.dau2 {
+    background: brown;
+    height: 100px;
+    width: 70%;
+    float: right;
+}
+
+#giua {
+    background: green;
+    height: 50px;
+    width: 100%;
+    clear: both;
+}
+
+.home {
+    float: right;
+}
+
+.item-giua1 {
+    float: left;
+    margin-left: 15px;
+}
+
+#olinhtinh {
+    float: right;
+}
+
+.dit1 {
+    background: coral;
+    width: 10%;
+    height: 500px;
+    float: right;
+}
+
+.dit2 {
+    background: crimson;
+    width: 70%;
+    height: 500px;
+    float: right;
+}
+
+.dit3 {
+    background: blanchedalmond;
+    width: 20%;
+    height: 500px;
+    float: right;
+}
+
+.gioithieu2 {
+    float: left;
+    margin-left: 15px;
+}
+
+#a {
+    float: right;
+
+}
+
+#gioithieu1 {
+    float: left
+}
+.classgiua1{
+    background: darkmagenta;
+    height: 100px;
+    width: 40%;
+    float: left;
+}
+.classgiua2{
+    background: aquamarine;
+    height: 100px;
+    width: 60%;
+    float: left;
+}
+.phan6{
+    width: 32.5%;
+
+    background: darksalmon;
+    height: 200px;
+    float: left;
+    margin: 5px;
+}
